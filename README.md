@@ -195,9 +195,9 @@ axillary function such as 16 language interfaces, theme changing.
 ## Data flow diagram
 
 ![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/se2.jpg?token=AKKBEBPYHI7YW5CQBBTKYXK5T55IM)
-
 ### Relevant tools
-Pandoc : a tool to convert docx to markdown (but can't convert good tables)
+***Pandoc***: a tool to convert docx to markdown (but can't convert good tables)
 https://github.com/jgm/pandoc
-Markdown table generator : a tool to generate tables.
+
+***Markdown table generator*** : a tool to generate tables.
 https://www.tablesgenerator.com/markdown_tables
