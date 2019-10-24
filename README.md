@@ -67,7 +67,7 @@ axillary function such as 16 language interfaces, theme changing.
 
 ### Constraint 
 
--   The system support both of IOS and Android.
+-   The system supports both of IOS and Android.
 
 ### Requirements Prioritization
 
@@ -76,11 +76,11 @@ axillary function such as 16 language interfaces, theme changing.
 |1|Before using the app, user must register|Client|1|Accepted for this release|
 |2|The pop-up of the promotion will appear on the screen|Client|2|Postponed for next release|
 |3|The user can check their history about the rental car|Client|3|Postponed until req. 2 was released|
-|4|The user can contact the call center to get help|Client|3|The pop-up of the promotion will appear on the screen|
+|4|The user can contact the call center to get help|Client|3|Postponed until req. 2 was released|
 |5|The user can edit the form of the application via the setting tab|Client|3|Postponed until req. 2 was released|
 |6|The user uses the code to get the promotion to their propose|Client|3|Postponed until req. 2 was released|
 |7|The user chooses the payment method|Client|4|Postponed until req. 3 was released|
-|8|The user can view the nearest branch on the map to rent a car|Client|5|Postponed until req. 3 was released|
+|8|The user can view the nearest branch on the map to rent a car|Client|5|Postponed until req. 4 was released|
 |9|Implement fast service by using a citizen ID card or passport to receive the car|Client|5|Postponed until req. 4 was released|
 
 ### Use case
