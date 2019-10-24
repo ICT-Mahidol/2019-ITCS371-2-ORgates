@@ -110,7 +110,7 @@ axillary function such as 16 language interfaces, theme changing.
 |Receive customer from system|The branch will receive the customer who want to rent the car from the system.|
 
 ## Use case diagram
-![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/se1.jpg?token=AKKBEBJMELMMK7H7GGIVHAK5T55EM)
+![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Photo%2024-10-2562%20BE%2023%2020%2053%20(1).jpg?token=AKKBEBK3XHGKCUOSQUQ3OES5XMGCE)
 
 #### Use case Narrative
 
@@ -194,7 +194,7 @@ axillary function such as 16 language interfaces, theme changing.
 
 ## Data flow diagram
 
-![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/se2.jpg?token=AKKBEBPYHI7YW5CQBBTKYXK5T55IM)
+![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Photo%2024-10-2562%20BE%2023%2020%2059%20(1).jpg?token=AKKBEBNIH5FBAR6QHOUUUNK5XMGFC)
 ### Relevant tools
 ***Pandoc***: a tool to convert docx to markdown (but can't convert good tables)
 https://github.com/jgm/pandoc
