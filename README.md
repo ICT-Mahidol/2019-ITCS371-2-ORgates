@@ -1,4 +1,4 @@
-# 2019-ITCS371-2-ORgates
+https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Photo%2024-10-2562%20BE%2023%2020%2053%20(1).jpg?token=AKKBEBMEHPYSI4PJAYVTXZ254ZZBM# 2019-ITCS371-2-ORgates
 
 Car rental service
 ==================
@@ -110,7 +110,7 @@ axillary function such as 16 language interfaces, theme changing.
 |Receive customer from system|The branch will receive the customer who want to rent the car from the system.|
 
 ## Use case diagram
-![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Photo%2024-10-2562%20BE%2023%2020%2053%20(1).jpg?token=AKKBEBK3XHGKCUOSQUQ3OES5XMGCE)
+![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Photo%2024-10-2562%20BE%2023%2020%2053%20(1).jpg?token=AKKBEBMEHPYSI4PJAYVTXZ254ZZBM)
 
 #### Use case Narrative
 
