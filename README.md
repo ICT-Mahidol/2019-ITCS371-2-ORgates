@@ -122,42 +122,33 @@ axillary function such as 16 language interfaces, theme changing.
 |                                   | car.                              |
 | Scenario:                         | 1.  The user must register before |
 |                                   |     using the application.        |
-|                                   |                                   |
 |                                   | 2.  The user login to the         |
 |                                   |     application.                  |
-|                                   |                                   |
 |                                   | 3.  The pop-up of the promotion   |
 |                                   |     will show on the screen.      |
-|                                   |                                   |
 |                                   | 4.  The user presses the button   |
 |                                   |     to rental the car and chooses |
 |                                   |     the addition device such as   |
 |                                   |     GPS and front/back camera.    |
-|                                   |                                   |
 |                                   | 5.  If the user interested in the |
 |                                   |     promotion, they can use the   |
 |                                   |     promotion tab to see the      |
 |                                   |     promotion.                    |
-|                                   |                                   |
 |                                   | 6.  The user chooses the payment  |
 |                                   |     method.                       |
-|                                   |                                   |
 |                                   | 7.  The user searches for the     |
 |                                   |     nearest branch to get the     |
 |                                   |     car.                          |
-|                                   |                                   |
 |                                   | 8.  When the user arrives at the  |
 |                                   |     branch, they only using a     |
 |                                   |     citizen ID card or passport   |
 |                                   |     to receive the car.           |
 | Exceptions:                       | 1.  If the user didn't register,  |
 |                                   |     go to registration.           |
-|                                   |                                   |
 |                                   | 2.  If the user fills username or |
 |                                   |     password incorrect, the       |
 |                                   |     system will let them fill     |
 |                                   |     again.                        |
-|                                   |                                   |
 |                                   | 3.  If the user didn't open the   |
 |                                   |     location, the system will     |
 |                                   |     inform you to open it.        |
@@ -177,14 +168,12 @@ axillary function such as 16 language interfaces, theme changing.
 |                                   |     tap bar.                      |
 |                                   | 2.  The user chooses the          |
 |                                   |     promotion and gets the code.  |
-|                                   |                                   |
 |                                   | 3.  The user brings the code and  |
 |                                   |     fills in the payment method   |
 |                                   |     to get the promotion.         |
 | Exceptions:                       | 1.  If the user\'s property does  |
 |                                   |     not match the promotion, the  |
 |                                   |     system will warn the user.    |
-|                                   |                                   |
 |                                   | 2.  If the code that the user     |
 |                                   |     fill is incorrect, the system |
 |                                   |     will alert and tell the user  |
