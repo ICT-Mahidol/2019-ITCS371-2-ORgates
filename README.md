@@ -175,7 +175,6 @@ axillary function such as 16 language interfaces, theme changing.
 | Scenario:                         | 1.  The user looks for promotion  |
 |                                   |     by tapping on the promotion   |
 |                                   |     tap bar.                      |
-|                                   |                                   |
 |                                   | 2.  The user chooses the          |
 |                                   |     promotion and gets the code.  |
 |                                   |                                   |
