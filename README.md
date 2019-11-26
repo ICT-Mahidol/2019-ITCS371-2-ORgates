@@ -89,18 +89,19 @@ axillary function such as 16 language interfaces, theme changing.
 
 |Actor|Role|
 |-----|---|
-|  User   |  Rent the car by interact with the system.|
-|  System |  Receive the rental form that from the user and sent to branch.|
-|  Admin  |  Manage the system and answer the user question.|
-|  Branch |  Give the car to the user who sent the form to rent.|
+|  Users   |  Users can login to the app, manage settings, rent a car, make a payment, find stores, report car problems, contact admin and view/redeem promotions|
+|  Car API Service |  A Car API Service is an external service to determine the available cars to the user|
+|  Branch |  View car rental reports|
+|  Location API Service | A Location API Service is an external service to determine the nearest branches|
+|  Admin  |  View car problems reports, update promotions and reply to customer contacts|
 
 #### Use case list
-
+************
  |Use case name|Description|
  |-------------|-----------|
-|Sign in |To use the rental car application, the user must sign in the application.|
-|Use citizen ID card or passport to receive the car|When the user arrives in selected branch, they must show the citizen ID card or passport to receive the car|
-|Setting tab|The user can change language or color theme of the application|
+|Log in |To use the rental car application, the user must log in to the application.|
+|Setting |Users can change language or color theme of the application|
+|Rent a car||
 |Payment method|The system receives the payment method that chooses by the user|
 |Location of near branch|The system will recommend about the nearest branch for user that easy for them to go to get the car.|
 |Record history|The system will record each user a history of rental car.|
