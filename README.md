@@ -4,9 +4,9 @@ Car rental service
 ==================
 
 Our client wanted an application that is easy to use and provide great
-security so, we come up with new way to buy customer trust with system
+security so we came up with a new way to buy customer trust with system
 to show history of the car that customer rent to make sure that their
-car will be reliable furthermore, customer can rent car easily by only
+car will be reliable furthermore, customers can rent a car easily by only
 register to the application and use it to rent for the payment we will
 accept both cash and credit card. When customer come to get their car,
 they will need only to show their ID card or passport to receive the car
@@ -15,8 +15,8 @@ application such as emergency call to company call company, promotion
 for customer that rent for certain time then they can use promotion code
 by just tab in application so, no need for customer to find coupon code
 for discount on the economy side customer also can rent car with no GPS
-services for cheaper price. Our application will also provide another
-axillary function such as 16 language interfaces, theme changing.
+services for a cheaper price. Our application will also provide other
+auxiliary functions such as 16 language interfaces, theme changing.
 
 ### Functional
 
@@ -89,29 +89,25 @@ axillary function such as 16 language interfaces, theme changing.
 
 |Actor|Role|
 |-----|---|
-|  Users   |  Users can login to the app, manage settings, rent a car, make a payment, find stores, report car problems, contact admin and view/redeem promotions|
+|  Users   |  Users can login to the app, manage settings, rent a car, find stores, contact admin, report car problems and redeem promotions|
+|  Payment API Service| A Payment API Service is an external service to manage user payments|
 |  Car API Service |  A Car API Service is an external service to determine the available cars to the user|
 |  Branch |  View car rental reports|
 |  Location API Service | A Location API Service is an external service to determine the nearest branches|
-|  Admin  |  View car problems reports, update promotions and reply to customer contacts|
+|  Admin  |  View user contact messages, view car problems reports, update promotions|
 
 #### Use case list
-HEREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
  |Use case name|Description|
  |-------------|-----------|
-|Log in |To use the rental car application, the user must log in to the application.|
-|Setting |Users can change language or color theme of the application|
-|Rent a car||
-|Payment method|The system receives the payment method that chooses by the user|
-|Location of near branch|The system will recommend about the nearest branch for user that easy for them to go to get the car.|
-|Record history|The system will record each user a history of rental car.|
-|Contact center|The system will receive the contact from the user and sent it to the admin.|
-|Fix car service|When the administrator receives the problem about the car, they will send the employee to fix the car.|
-|Manage promotion|The admin can set up a promotion for the user.|
-|Receive customer from system|The branch will receive the customer who want to rent the car from the system.|
-
+|Register |Users give their emails and set their user names and passwords|
+|Setting |Users can change the color theme of the application|
+|Rent a car|Users can get available car info and make a payment|
+|Find stores| Users can get location and map of nearest stores|
+|Contact| Users can send a message to admin|
+|Report car problems| Users can report car problems to admin|
+|Redeem promotion code| Users can redeem promotion code|
 ## Use case diagram
-![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Photo%2024-10-2562%20BE%2023%2020%2053%20(1).jpg?token=AKKBEBMEHPYSI4PJAYVTXZ254ZZBM)
+![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Usecasediagram.png?token=AKKBEBNXKSDZNKZ3V56T36S55IYTG)
 
 #### Use case Narrative
 
@@ -183,7 +179,7 @@ HEREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
 ## Data flow diagram
 
-![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Photo%2024-10-2562%20BE%2023%2020%2059%20(1).jpg?token=AKKBEBNIH5FBAR6QHOUUUNK5XMGFC)
+![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/dfd0.png?token=AKKBEBJ4YZZZG2MYNSJEMXS55I7FQ)
 ### Relevant tools
 ***Pandoc***: a tool to convert docx to markdown (but can't convert good tables)
 https://github.com/jgm/pandoc
