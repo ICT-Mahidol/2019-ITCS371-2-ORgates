@@ -107,7 +107,7 @@ auxiliary functions such as 16 language interfaces, theme changing.
 |Report car problems| Users can report car problems to admin|
 |Redeem promotion code| Users can redeem promotion code|
 ## Use case diagram
-![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/Usecasediagram.png?token=AKKBEBNXKSDZNKZ3V56T36S55IYTG)
+![Alt text](https://raw.githubusercontent.com/ICT-Mahidol/2019-ITCS371-2-ORgates/master/usecase(fixedlogin).png?token=AKKBEBINYMC22LA6YDDZ2VK55JFNW)
 
 #### Use case Narrative
 
